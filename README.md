@@ -43,7 +43,7 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 </p>
 
 <p align="center">
-  <em>⚙️ Server & network infrastructure monitoring</em>
+  <em>⚙️ Server and network infrastructure security and monitoring.</em>
 </p>
 
 ---
