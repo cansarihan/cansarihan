@@ -65,7 +65,7 @@ I am a **Server System Network Manager** and a **Full-Stack Developer**, deeply 
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
@@ -74,5 +74,5 @@ I am a **Server System Network Manager** and a **Full-Stack Developer**, deeply 
 ---
 <div align="center">
   <i>Visitor Count</i><br/>
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg" />
+  <img src="https://profile-counter.glitch.me/cansarihan/count.svg" />
 </div>
