@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://kobizon.com.tr/assets/img/team/cansarihan.png" width="500" />
+</p>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=500&height=45&lines=Can+Sar%C4%B1han;Server+System+Network+Manager;Backend+%26+Frontend;Cybersecurity+Expert;Blue+Network+Founder" alt="Typing SVG" />
 </h1>
