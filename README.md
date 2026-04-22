@@ -1,13 +1,19 @@
-<!-- Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=700&lines=Can+Sar%C4%B1han;Server+System+%26+Network+Manager;Full-Stack+Developer;Cybersecurity+Specialist;Founder+%26+CEO+%40+Blue+Network" alt="Typing SVG" />
-</h1>
-
-<!-- Logo & Social Badges -->
+<!-- COMPLETELY ANIMATED HEADER with your name -->
 <p align="center">
-  <img src="https://bluenetwork.tr/bluedarbeyaz.png" alt="Blue Network Logo" width="160" style="border-radius: 30px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&duration=2000&pause=500&color=2D9BF0&center=true&vCenter=true&width=800&height=70&lines=Can+Sar%C4%B1han;Server+System+%26+Network+Manager;Full-Stack+Developer;Cybersecurity+Specialist;Founder+%26+CEO+%40+Blue+Network;Ethical+Hacker;Virtualization+Architect" alt="Animated Name Header" />
 </p>
 
+<!-- Animated Subheader with rotating roles -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=⚡+Always+Learning+%7C+Always+Securing+⚡;🔐+Blue+Network+Founder;🖥️+Infrastructure+is+my+playground;🚀+14%2B+years+of+experience" alt="Rotating Subheader" />
+</p>
+
+<!-- Logo -->
+<p align="center">
+  <img src="https://bluenetwork.tr/bluedarbeyaz.png" alt="Blue Network Logo" width="170" style="border-radius: 30px; animation: pulse 2s infinite;" />
+</p>
+
+<!-- Social Badges with hover effects -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cansarihan&label=Profile%20Views&color=2D9BF0&style=flat-square" alt="Profile Views" />
   <a href="https://bluenetwork.tr/">
@@ -40,14 +46,14 @@ With a strong background in both **backend (Node.js, Express)** and **frontend (
 
 ---
 
-## 🖥️ Server & Infrastructure GIF
+## 🖥️ Server & Infrastructure (Live Animations)
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF4NmZ6OTl3YmRyNmZxeXZudXl1bmR0M3h2c2xyeXJ5MGpkYzUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="48%" />
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="48%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF4NmZ6OTl3YmRyNmZxeXZudXl1bmR0M3h2c2xyeXJ5MGpkYzUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="45%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="45%" />
 </p>
 <p align="center">
-  <em>⚙️ Server room animation & live network monitoring visualization</em>
+  <em>⚙️ Server Room Animation & Live Network Traffic Visualization</em>
 </p>
 
 ---
@@ -55,11 +61,11 @@ With a strong background in both **backend (Node.js, Express)** and **frontend (
 ## 🔐 Cybersecurity in Action
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZydzNyaWRycjZ1cjBkZjdzdWZkc2M3YTh5cWtrd2NlbXZ2ZHh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abBKl1GzQ0DGx8c/giphy.gif" width="48%" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvbWdtc25qYWhpaXc5a2s1aXljaGp3cmFsdzBuaXZvdnQ5YmZodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="48%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZydzNyaWRycjZ1cjBkZjdzdWZkc2M3YTh5cWtrd2NlbXZ2ZHh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abBKl1GzQ0DGx8c/giphy.gif" width="45%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvbWdtc25qYWhpaXc5a2s1aXljaGp3cmFsdzBuaXZvdnQ5YmZodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="45%" />
 </p>
 <p align="center">
-  <em>🛡️ Packet analysis (Wireshark style) & real-time threat detection</em>
+  <em>🛡️ Real-time Packet Analysis (Wireshark) & Threat Detection System</em>
 </p>
 
 ---
@@ -95,15 +101,16 @@ With a strong background in both **backend (Node.js, Express)** and **frontend (
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Fully Fixed)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cansarihan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9BF0&icon_color=2D9BF0&ring_color=2D9BF0&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&theme=radical&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cansarihan&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=2D9BF0&icon_color=2D9BF0&ring_color=2D9BF0&include_all_commits=true&count_private=true&border_radius=10" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&theme=radical&hide_border=false&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&border_radius=10" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansarihan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9BF0" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cansarihan&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=2D9BF0&border_radius=10" width="49%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cansarihan&theme=radical&no-frame=false&row=1&column=4&margin-w=15&margin-h=15" width="49%" />
 </div>
 
 ---
@@ -147,6 +154,12 @@ I'm always open to collaborating on **cybersecurity research**, **infrastructure
 
 ---
 
+<!-- Animated Footer with Matrix effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=800&color=2D9BF0&center=true&vCenter=true&width=600&lines=Securing+infrastructure;Building+scalable+systems;Blue+Network+%7C+Always+Evolving" alt="Footer typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=800&color=2D9BF0&center=true&vCenter=true&width=700&lines=🔐+Securing+infrastructure+24%2F7;⚡+Building+scalable+systems;🚀+Blue+Network+%7C+Always+Evolving;💻+Code.+Secure.+Repeat.;🛡️+Your+security%2C+our+mission" alt="Footer Animation" />
+</p>
+
+<!-- Extra animated quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 </p>
