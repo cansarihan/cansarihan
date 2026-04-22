@@ -17,14 +17,19 @@
 
 ## 👨‍💻 About Me
 
-I'm **Can Sarıhan**, a **Server System & Network Manager**, full-stack developer, and cybersecurity expert.  
-I'm the founder and owner of **Blue Network**.
+I'm **Can Sarıhan**, a **Server System & Network Manager** with expertise in both backend and frontend development. I'm also the founder and owner of **Blue Network**.
 
-🔹 **Role:** Server System & Network Manager  
-🔹 **Development:** Backend & Frontend (Node.js, Express.js, HTML, CSS, Lua)  
-🔹 **Infrastructure:** Server systems, virtualization (ESXi, Proxmox), monitoring  
-🔹 **Cybersecurity:** Web app security, Metasploit, Burp Suite, NMAP, Nuclei, Wazuh, Wireshark, Kali Linux  
-🔹 **Company:** Founder of [Blue Network](https://bluenetwork.tr/)
+**What I do:**
+
+🔹 **System & Network Management** – I handle server systems, network infrastructure, monitoring, and virtualization technologies (ESXi, Proxmox). From setup to maintenance, I ensure everything runs smoothly.
+
+🔹 **Development** – I write code in **Node.js**, **Express.js**, **.lua**, **HTML**, and **CSS**. Full-stack development is my daily routine.
+
+🔹 **Cybersecurity** – This is where I excel. Web application security, penetration testing, and threat analysis are my core strengths. I work with **Metasploit**, **Burp Suite**, **NMAP**, **Nuclei**, **Wazuh**, **Wireshark**, and **Kali Linux** on a regular basis.
+
+🔹 **Blue Network** – I own and run this company, providing professional network solutions, security audits, and monitoring services. Check us out at [bluenetwork.tr](https://bluenetwork.tr/)
+
+In short: I build, I secure, I manage. Servers, networks, applications — I handle it all.
 
 ---
 
