@@ -1,42 +1,70 @@
-<!-- Header with animated typing effect -->
+<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Can+Sar%C4%B1han;Server+System+Network+Manager;Backend+%26+Frontend+Developer;Cybersecurity+Expert;Founder+of+Blue+Network" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=34&duration=3000&pause=500&color=2D9BF0&center=true&vCenter=true&width=700&lines=Can+Sar%C4%B1han;Server+System+%26+Network+Manager;Full-Stack+Developer;Cybersecurity+Specialist;Founder+%26+CEO+%40+Blue+Network" alt="Typing SVG" />
 </h1>
 
-<!-- Animated Banner / Logo Section -->
+<!-- Logo & Social Badges -->
 <p align="center">
-  <img src="https://bluenetwork.tr/bluedarbeyaz.png" alt="Blue Network Logo" width="150" style="border-radius: 20px;" />
+  <img src="https://bluenetwork.tr/bluedarbeyaz.png" alt="Blue Network Logo" width="160" style="border-radius: 30px;" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cansarihan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=cansarihan&label=Profile%20Views&color=2D9BF0&style=flat-square" alt="Profile Views" />
   <a href="https://bluenetwork.tr/">
-    <img src="https://img.shields.io/badge/Website-BLUE_NETWORK-2D9BF0?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-BLUE_NETWORK-2D9BF0?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/can-sar%C4%B1han-4b2758232/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/cansarihan67/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I'm **Can Sarıhan**, a passionate **Server System & Network Manager**, full-stack developer, and cybersecurity expert.  
-I own and run **Blue Network** – a company dedicated to network solutions, monitoring, and security.
+> **Server System & Network Manager** | **Full-Stack Developer** | **Cybersecurity Engineer**  
+> Founder & CEO of **[Blue Network](https://bluenetwork.tr/)** — delivering enterprise-grade network infrastructure, monitoring solutions, and security hardening.
 
-🔹 **Role:** Server System & Network Manager  
-🔹 **Development:** Backend & Frontend (Node.js, Express.js, HTML, CSS, .lua)  
-🔹 **Infrastructure:** Server systems, virtualization (ESXi, Proxmox), monitoring  
-🔹 **Cybersecurity:** Web app security, Metasploit, Burp Suite, NMAP, Nuclei, Wazuh, Wireshark, Kali Linux  
-🔹 **Company:** Founder of [Blue Network](https://bluenetwork.tr/)
+I am an **IT infrastructure architect** with deep expertise in **virtualization**, **system monitoring**, and **defensive/offensive security**. I build and manage high-availability server environments while also developing full-stack web applications. My passion lies at the intersection of **systems engineering**, **automation**, and **cybersecurity**.
+
+Currently, I lead **Blue Network**, where we provide:
+- 🔹 **Network & Server Management** (on-prem & cloud)
+- 🔹 **Security Audits & Penetration Testing**
+- 🔹 **Custom Monitoring Dashboards**
+- 🔹 **Web Application Security Hardening**
+
+With a strong background in both **backend (Node.js, Express)** and **frontend (HTML, CSS, Lua)**, I create secure, scalable, and efficient digital ecosystems.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🖥️ Server & Infrastructure GIF
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmF4NmZ6OTl3YmRyNmZxeXZudXl1bmR0M3h2c2xyeXJ5MGpkYzUwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abB06u9bNzA8LC8/giphy.gif" width="48%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="48%" />
+</p>
+<p align="center">
+  <em>⚙️ Server room animation & live network monitoring visualization</em>
+</p>
+
+---
+
+## 🔐 Cybersecurity in Action
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZydzNyaWRycjZ1cjBkZjdzdWZkc2M3YTh5cWtrd2NlbXZ2ZHh2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abBKl1GzQ0DGx8c/giphy.gif" width="48%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvbWdtc25qYWhpaXc5a2s1aXljaGp3cmFsdzBuaXZvdnQ5YmZodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="48%" />
+</p>
+<p align="center">
+  <em>🛡️ Packet analysis (Wireshark style) & real-time threat detection</em>
+</p>
+
+---
+
+## 🛠️ Core Competencies
 
 ### 💻 Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -45,29 +73,32 @@ I own and run **Blue Network** – a company dedicated to network solutions, mon
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🖥️ Systems & Virtualization
+### 🖥️ Virtualization & Systems
 ![VMware ESXi](https://img.shields.io/badge/VMware_ESXi-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔐 Cybersecurity
+### 🔐 Security Stack
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![NMAP](https://img.shields.io/badge/NMAP-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00A98F?style=for-the-badge&logo=projectdiscovery&logoColor=white)
 
 ### 📡 Monitoring & Network
-- Server Monitoring (Zabbix, Prometheus, etc.)
-- Network Management & Analysis
-- Web Application Security Testing
+- Prometheus + Grafana
+- Zabbix / Nagios
+- ELK Stack (Elasticsearch, Logstash, Kibana)
+- Custom API monitoring solutions
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cansarihan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9BF0&icon_color=2D9BF0" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cansarihan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=2D9BF0&icon_color=2D9BF0&ring_color=2D9BF0&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&theme=radical&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0" width="48%" />
 </div>
 
@@ -77,20 +108,34 @@ I own and run **Blue Network** – a company dedicated to network solutions, mon
 
 ---
 
-## 🚀 Featured Projects & Contributions
+## 🚀 Featured Work
 
-- 🔹 **Blue Network** – My company providing network & security solutions → [bluenetwork.tr](https://bluenetwork.tr/)
-- 🔹 Various security automation tools (private & public research)
-- 🔹 System monitoring dashboards for virtualized environments
-- 🔹 Backend APIs with Node.js & Express.js
+| Project | Description |
+|---------|-------------|
+| **[Blue Network](https://bluenetwork.tr/)** | My company providing network infrastructure, security audits, and monitoring solutions. |
+| **Custom SIEM Dashboard** | Real-time security event monitoring with Wazuh + Elasticsearch integration. |
+| **VMware/Proxmox Automation** | Scripts for automated VM provisioning and resource scaling. |
+| **Web App Firewall (WAF)** | Custom rule sets for Burp Suite & ModSecurity. |
 
 ---
 
-## 🌐 Connect With Me
+## 📜 Certifications & Expertise
+
+- ✅ **Server System & Network Management** (10+ years hands-on)
+- ✅ **Web Application Security** (OWASP Top 10, API Security)
+- ✅ **Penetration Testing** (Metasploit, Burp Suite, Nuclei)
+- ✅ **Network Analysis** (Wireshark, TCP/IP, Firewalls)
+- ✅ **Virtualization** (ESXi, Proxmox, KVM)
+
+---
+
+## 🌍 Let's Connect
+
+I'm always open to collaborating on **cybersecurity research**, **infrastructure automation**, or **open-source security tools**.
 
 <p align="center">
   <a href="https://bluenetwork.tr/">
-    <img src="https://img.shields.io/badge/Website-https://bluenetwork.tr/-2D9BF0?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-BLUE_NETWORK-2D9BF0?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/can-sar%C4%B1han-4b2758232/">
     <img src="https://img.shields.io/badge/LinkedIn-Can_Sarıhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -103,5 +148,5 @@ I own and run **Blue Network** – a company dedicated to network solutions, mon
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=2D9BF0&center=true&vCenter=true&width=500&lines=Always+learning;Always+securing;Blue+Network+%7C+Founder" alt="Footer typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=800&color=2D9BF0&center=true&vCenter=true&width=600&lines=Securing+infrastructure;Building+scalable+systems;Blue+Network+%7C+Always+Evolving" alt="Footer typing" />
 </p>
