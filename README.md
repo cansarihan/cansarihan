@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cansarihan&label=Profile%20Views&color=2D9BF0&style=flat" alt="views" />
   <a href="https://bluenetwork.tr/"><img src="https://img.shields.io/badge/Website-BLUE_NETWORK-2D9BF0?style=flat&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/can-sar%C4%B1han-4b2758232/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cansarihan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/cansarihan67/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
