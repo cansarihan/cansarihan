@@ -83,7 +83,7 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cansarihan&show_icons=true&theme=radical&bg_color=0D1117&title_color=2D9BF0&icon_color=2D9BF0&border_color=2D9BF0" width="48%" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&theme=radical&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0" width="48%" />
 </div>
 
