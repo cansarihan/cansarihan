@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="[https://bluenetwork.tr/bluenetwork.svg]" alt="Blue Network Logo" width="140" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=cansarihan&label=Profile%20Views&color=2D9BF0&style=flat" alt="views" />
   <a href="https://bluenetwork.tr/"><img src="https://img.shields.io/badge/Website-BLUE_NETWORK-2D9BF0?style=flat&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/cansarihan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
