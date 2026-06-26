@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="[https://bluenetwork.tr/bluedarbeyaz.png](https://bluenetwork.tr/bluenetwork.svg)" alt="Blue Network Logo" width="140" />
+  <img src="[https://bluenetwork.tr/bluenetwork.svg]" alt="Blue Network Logo" width="140" />
 </p>
 
 <p align="center">
