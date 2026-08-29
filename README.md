@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" />
+  <img src="assets/terminal.gif" width="100%" alt="terminal" />
 </p>
 
 ## 👋 About Me
@@ -23,6 +23,20 @@ I'm **Can Sarıhan**, a **Server System & Network Manager** with expertise acros
 - 🔹 **Blue Network** — professional network solutions, security audits, and monitoring at [bluenetwork.tr](https://bluenetwork.tr/).
 
 In short: I build, I secure, I manage. Servers, networks, applications — I handle it all.
+
+## 🖥️ Server & Network
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="420" />
+</p>
+<p align="center"><em>⚙️ Server and network infrastructure security and monitoring.</em></p>
+
+## 🔐 Cybersecurity
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvbWdtc25qYWhpaXc5a2s1aXljaGp3cmFsdzBuaXZvdnQ5YmZodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="420" />
+</p>
+<p align="center"><em>🛡️ Real-time threat detection & packet analysis.</em></p>
 
 ## 🧰 Languages & Tools
 
@@ -78,20 +92,6 @@ A suite of network and systems tools, each with a live panel and green CI. Click
 <p align="center">
   <a href="https://github.com/cansarihan/prism"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-light.svg" width="49%" alt="prism" /></picture></a>
 </p>
-
-## 🖥️ Server & Network
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="420" />
-</p>
-<p align="center"><em>⚙️ Server and network infrastructure security and monitoring.</em></p>
-
-## 🔐 Cybersecurity
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvbWdtc25qYWhpaXc5a2s1aXljaGp3cmFsdzBuaXZvdnQ5YmZodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="420" />
-</p>
-<p align="center"><em>🛡️ Real-time threat detection & packet analysis.</em></p>
 
 ## 📊 GitHub Stats
 
