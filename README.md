@@ -32,19 +32,20 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&sideNums=9BA5B4&sideLabels=9BA5B4&dates=6E7681" width="53%" />
 </p>
 
-## 🖥️ Server & Network
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="420" />
-</p>
-<p align="center"><em>⚙️ Server and network infrastructure security and monitoring.</em></p>
-
-## 🔐 Cybersecurity
-
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvbWdtc25qYWhpaXc5a2s1aXljaGp3cmFsdzBuaXZvdnQ5YmZodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="420" />
-</p>
-<p align="center"><em>🛡️ Real-time threat detection & packet analysis.</em></p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center"><h3>🖥️ Server &amp; Network</h3></td>
+<td width="50%" align="center"><h3>🔐 Cybersecurity</h3></td>
+</tr>
+<tr>
+<td align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="100%" /></td>
+<td align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvbWdtc25qYWhpaXc5a2s1aXljaGp3cmFsdzBuaXZvdnQ5YmZodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="100%" /></td>
+</tr>
+<tr>
+<td align="center"><em>⚙️ Server and network infrastructure security and monitoring.</em></td>
+<td align="center"><em>🛡️ Real-time threat detection &amp; packet analysis.</em></td>
+</tr>
+</table>
 
 ## 🧰 Languages & Tools
 
