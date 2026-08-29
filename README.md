@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%" />
+  <img src="assets/terminal.svg" width="100%" />
 </p>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+## 👋 About Me
 
 I'm **Can Sarıhan**, a **Server System & Network Manager** with expertise across backend, frontend, and security. I'm also the founder of **Blue Network**.
 
@@ -24,7 +24,7 @@ I'm **Can Sarıhan**, a **Server System & Network Manager** with expertise acros
 
 In short: I build, I secure, I manage. Servers, networks, applications — I handle it all.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Languages & Tools
+## 🧰 Languages & Tools
 
 **Languages**
 
@@ -59,47 +59,46 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sYkjAyc/giphy.gif" width="28"> Server & Network
+## 🚀 Featured Projects
+
+A suite of network and systems tools, each with a live panel and green CI. Click a banner to open the repo.
+
+<p align="center">
+  <a href="https://github.com/cansarihan/vane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/vane/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/vane/main/docs/assets/wordmark-light.svg" width="49%" alt="vane" /></picture></a>
+  <a href="https://github.com/cansarihan/pharos"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/pharos/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/pharos/main/docs/assets/wordmark-light.svg" width="49%" alt="pharos" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cansarihan/lattice"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/lattice/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/lattice/main/docs/assets/wordmark-light.svg" width="49%" alt="lattice" /></picture></a>
+  <a href="https://github.com/cansarihan/wharf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/wharf/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/wharf/main/docs/assets/wordmark-light.svg" width="49%" alt="wharf" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cansarihan/anvil"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/anvil/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/anvil/main/docs/assets/wordmark-light.svg" width="49%" alt="anvil" /></picture></a>
+  <a href="https://github.com/cansarihan/sonar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/sonar/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/sonar/main/docs/assets/wordmark-light.svg" width="49%" alt="sonar" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cansarihan/prism"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-light.svg" width="49%" alt="prism" /></picture></a>
+</p>
+
+## 🖥️ Server & Network
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="420" />
 </p>
 <p align="center"><em>⚙️ Server and network infrastructure security and monitoring.</em></p>
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="28"> Cybersecurity
+## 🔐 Cybersecurity
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtvbWdtc25qYWhpaXc5a2s1aXljaGp3cmFsdzBuaXZvdnQ5YmZodyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgG50Fb7Mi0prBC/giphy.gif" width="420" />
 </p>
 <p align="center"><em>🛡️ Real-time threat detection & packet analysis.</em></p>
 
-## 🚀 Featured Projects
-
-### <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" height="22"/> &nbsp;Systems & Network
-
-| Project | What it does |
-| --- | --- |
-| **[vane](https://github.com/cansarihan/vane)** | Layer 7 reverse proxy & load balancer — health checks, weighted balancing, live panel |
-| **[pharos](https://github.com/cansarihan/pharos)** | Recursive DNS resolver with authoritative zones and block-list filtering |
-| **[lattice](https://github.com/cansarihan/lattice)** | WireGuard mesh control plane — policy-driven peer lists and address management |
-| **[wharf](https://github.com/cansarihan/wharf)** | Git-push deployment platform that builds from your Dockerfile and shifts traffic on health |
-| **[anvil](https://github.com/cansarihan/anvil)** | CI runner that resolves a YAML pipeline into a container-per-step DAG |
-| **[sonar](https://github.com/cansarihan/sonar)** | Network mapper & TCP port scanner with live service identification and a radar scope |
-| **[prism](https://github.com/cansarihan/prism)** | Live packet dissector that splits traffic into a per-protocol spectrum |
-
-### <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="22"/> &nbsp;Web & Product
-
-| Project | What it does |
-| --- | --- |
-| **[streampay](https://github.com/cansarihan/streampay)** | Real-time payment streaming — payroll and vesting |
-| **[anchorflow](https://github.com/cansarihan/anchorflow)** | Programmable cross-border treasury and invoice-financing rails |
-| **[constella](https://github.com/cansarihan/constella)** | Transparent, on-chain, real-time community funding |
-| **[stellar-nft-marketplace](https://github.com/cansarihan/stellar-nft-marketplace)** | NFT marketplace built on Stellar |
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&sideNums=9BA5B4&sideLabels=9BA5B4&dates=6E7681" width="70%" />
+  <img src="assets/languages.svg" width="42%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&sideNums=9BA5B4&sideLabels=9BA5B4&dates=6E7681" width="53%" />
 </p>
 
 ## 🏢 Blue Network

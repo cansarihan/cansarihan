@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 170" width="900" height="170" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <rect x="1" y="1" width="898" height="168" rx="10" fill="#0d1117" stroke="#21262d"/>
+  <rect x="1" y="1" width="898" height="34" rx="10" fill="#161b22"/>
+  <rect x="1" y="24" width="898" height="12" fill="#161b22"/>
+  <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="42" cy="18" r="5" fill="#ffbd2e"/>
+  <circle cx="62" cy="18" r="5" fill="#27c93f"/>
+  <text x="450" y="22" text-anchor="middle" font-size="12" fill="#6e7681" letter-spacing="1">bluenetwork — monitoring</text>
+  <text x="26" y="68" font-size="15" fill="#2D9BF0">can@bluenetwork</text><text x="196" y="68" font-size="15" fill="#8b949e">:</text><text x="204" y="68" font-size="15" fill="#9d7cff">~</text><text x="214" y="68" font-size="15" fill="#8b949e">$</text><text x="230" y="68" font-size="15" fill="#e6edf3">systemctl status monitoring.service</text>
+  <circle cx="30" cy="92" r="4" fill="#27c93f"/><text x="44" y="97" font-size="15" fill="#adbac7">active (running)</text><text x="200" y="97" font-size="15" fill="#6e7681">— uptime 214d · 0 alerts</text>
+  <text x="26" y="126" font-size="15" fill="#2D9BF0">can@bluenetwork</text><text x="196" y="126" font-size="15" fill="#8b949e">:</text><text x="204" y="126" font-size="15" fill="#9d7cff">~</text><text x="214" y="126" font-size="15" fill="#8b949e">$</text><text x="230" y="126" font-size="15" fill="#e6edf3">nmap -sV --top-ports 100 fleet.local</text>
+  <text x="44" y="152" font-size="15" fill="#adbac7">7 hosts up</text><text x="140" y="152" font-size="15" fill="#6e7681">· ssh · https · postgres · redis · mqtt</text>
+  <rect x="516" y="139" width="9" height="16" fill="#2D9BF0"/>
+</svg>
