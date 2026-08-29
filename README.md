@@ -24,6 +24,14 @@ I'm **Can Sarıhan**, a **Server System & Network Manager** with expertise acros
 
 In short: I build, I secure, I manage. Servers, networks, applications — I handle it all.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="assets/languages.svg" width="42%" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&sideNums=9BA5B4&sideLabels=9BA5B4&dates=6E7681" width="53%" />
+</p>
+
 ## 🖥️ Server & Network
 
 <p align="center">
@@ -91,14 +99,6 @@ A suite of network and systems tools, each with a live panel and green CI. Click
 </p>
 <p align="center">
   <a href="https://github.com/cansarihan/prism"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-light.svg" width="49%" alt="prism" /></picture></a>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="assets/languages.svg" width="42%" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&sideNums=9BA5B4&sideLabels=9BA5B4&dates=6E7681" width="53%" />
 </p>
 
 ## 🏢 Blue Network
