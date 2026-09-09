@@ -33,9 +33,9 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cansarihan&theme=github_dark" width="49%" />
+  <img src="assets/stats.svg" width="49%" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cansarihan&theme=github_dark&utcOffset=3" width="49%" />
+  <img src="assets/activity.svg" width="49%" />
 </p>
 
 <table align="center" width="100%">
