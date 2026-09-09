@@ -93,6 +93,10 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 A suite of network and systems tools, each with a live panel and green CI. Click a banner to open the repo.
 
 <p align="center">
+  <a href="https://github.com/cansarihan/aegis"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/aegis/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/aegis/main/docs/assets/wordmark-light.svg" width="82%" alt="aegis" /></picture></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/cansarihan/prowl"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/prowl/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/prowl/main/docs/assets/wordmark-light.svg" width="49%" alt="prowl" /></picture></a>
   <a href="https://github.com/cansarihan/reliquary"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/reliquary/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/reliquary/main/docs/assets/wordmark-light.svg" width="49%" alt="reliquary" /></picture></a>
 </p>
