@@ -33,9 +33,9 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" width="49%" />
+  <img src="assets/focus.svg" width="49%" />
   &nbsp;
-  <img src="assets/activity.svg" width="49%" />
+  <img src="assets/stack.svg" width="49%" />
 </p>
 
 <table align="center" width="100%">
