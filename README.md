@@ -32,6 +32,14 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&currStreakNum=E6EDF3&sideNums=9BA5B4&sideLabels=9BA5B4&dates=6E7681" width="53%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cansarihan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2D9BF0&icon_color=2D9BF0&text_color=9BA5B4&ring_color=2D9BF0&rank_icon=github" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cansarihan&bg_color=0D1117&color=2D9BF0&line=2D9BF0&point=E6EDF3&area=true&area_color=1E3A5F&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</p>
+
 <table align="center" width="100%">
 <tr>
 <td width="50%" align="center"><h3>Server &amp; Network</h3></td>
