@@ -97,6 +97,14 @@ A suite of network and systems tools, each with a live panel and green CI. Click
 </p>
 
 <p align="center">
+  <a href="https://github.com/cansarihan/ark"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/ark/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/ark/main/docs/assets/wordmark-light.svg" width="49%" alt="ark" /></picture></a>
+  <a href="https://github.com/cansarihan/rampart"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/rampart/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/rampart/main/docs/assets/wordmark-light.svg" width="49%" alt="rampart" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cansarihan/warden"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/warden/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/warden/main/docs/assets/wordmark-light.svg" width="49%" alt="warden" /></picture></a>
+  <a href="https://github.com/cansarihan/ballast"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/ballast/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/ballast/main/docs/assets/wordmark-light.svg" width="49%" alt="ballast" /></picture></a>
+</p>
+<p align="center">
   <a href="https://github.com/cansarihan/prowl"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/prowl/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/prowl/main/docs/assets/wordmark-light.svg" width="49%" alt="prowl" /></picture></a>
   <a href="https://github.com/cansarihan/reliquary"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/reliquary/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/reliquary/main/docs/assets/wordmark-light.svg" width="49%" alt="reliquary" /></picture></a>
 </p>
