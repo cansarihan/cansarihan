@@ -33,11 +33,9 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cansarihan&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2D9BF0&icon_color=2D9BF0&text_color=9BA5B4&ring_color=2D9BF0&rank_icon=github" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cansarihan&bg_color=0D1117&color=2D9BF0&line=2D9BF0&point=E6EDF3&area=true&area_color=1E3A5F&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cansarihan&theme=github_dark" width="49%" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cansarihan&theme=github_dark&utcOffset=3" width="49%" />
 </p>
 
 <table align="center" width="100%">
