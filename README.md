@@ -29,13 +29,13 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 <p align="center">
   <img src="assets/languages.svg" width="42%" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&sideNums=9BA5B4&sideLabels=9BA5B4&dates=6E7681" width="53%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cansarihan&hide_border=true&background=0D1117&stroke=2D9BF0&ring=2D9BF0&fire=2D9BF0&currStreakLabel=2D9BF0&currStreakNum=E6EDF3&sideNums=9BA5B4&sideLabels=9BA5B4&dates=6E7681" width="53%" />
 </p>
 
 <table align="center" width="100%">
 <tr>
-<td width="50%" align="center"><h3>🖥️ Server &amp; Network</h3></td>
-<td width="50%" align="center"><h3>🔐 Cybersecurity</h3></td>
+<td width="50%" align="center"><h3>Server &amp; Network</h3></td>
+<td width="50%" align="center"><h3>Cybersecurity</h3></td>
 </tr>
 <tr>
 <td align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFwYzJjdGZpcTZ6cWZ5dDh6Y2RqdHh1eHh5eWZ6Z2Zwa2R5bXBuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26AHONQ79FdWZhAI0/giphy.gif" width="100%" /></td>
@@ -104,20 +104,18 @@ A suite of network and systems tools, each with a live panel and green CI. Click
 </p>
 <p align="center">
   <a href="https://github.com/cansarihan/cordon"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/cordon/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/cordon/main/docs/assets/wordmark-light.svg" width="49%" alt="cordon" /></picture></a>
-</p>
-<p align="center">
   <a href="https://github.com/cansarihan/vane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/vane/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/vane/main/docs/assets/wordmark-light.svg" width="49%" alt="vane" /></picture></a>
+</p>
+<p align="center">
   <a href="https://github.com/cansarihan/pharos"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/pharos/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/pharos/main/docs/assets/wordmark-light.svg" width="49%" alt="pharos" /></picture></a>
-</p>
-<p align="center">
   <a href="https://github.com/cansarihan/lattice"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/lattice/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/lattice/main/docs/assets/wordmark-light.svg" width="49%" alt="lattice" /></picture></a>
+</p>
+<p align="center">
   <a href="https://github.com/cansarihan/wharf"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/wharf/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/wharf/main/docs/assets/wordmark-light.svg" width="49%" alt="wharf" /></picture></a>
-</p>
-<p align="center">
   <a href="https://github.com/cansarihan/anvil"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/anvil/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/anvil/main/docs/assets/wordmark-light.svg" width="49%" alt="anvil" /></picture></a>
-  <a href="https://github.com/cansarihan/sonar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/sonar/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/sonar/main/docs/assets/wordmark-light.svg" width="49%" alt="sonar" /></picture></a>
 </p>
 <p align="center">
+  <a href="https://github.com/cansarihan/sonar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/sonar/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/sonar/main/docs/assets/wordmark-light.svg" width="49%" alt="sonar" /></picture></a>
   <a href="https://github.com/cansarihan/prism"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-light.svg" width="49%" alt="prism" /></picture></a>
 </p>
 
