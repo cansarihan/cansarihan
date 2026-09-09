@@ -13,7 +13,7 @@
   <img src="assets/terminal.gif" width="100%" alt="terminal" />
 </p>
 
-## 👋 About Me
+## About Me
 
 I'm **Can Sarıhan**, a **Server System & Network Manager** with expertise across backend, frontend, and security. I'm also the founder of **Blue Network**.
 
@@ -24,7 +24,7 @@ I'm **Can Sarıhan**, a **Server System & Network Manager** with expertise acros
 
 In short: I build, I secure, I manage. Servers, networks, applications — I handle it all.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="assets/languages.svg" width="42%" />
@@ -47,7 +47,7 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 </tr>
 </table>
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 **Languages**
 
@@ -82,10 +82,29 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 A suite of network and systems tools, each with a live panel and green CI. Click a banner to open the repo.
 
+<p align="center">
+  <a href="https://github.com/cansarihan/prowl"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/prowl/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/prowl/main/docs/assets/wordmark-light.svg" width="49%" alt="prowl" /></picture></a>
+  <a href="https://github.com/cansarihan/reliquary"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/reliquary/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/reliquary/main/docs/assets/wordmark-light.svg" width="49%" alt="reliquary" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cansarihan/sift"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/sift/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/sift/main/docs/assets/wordmark-light.svg" width="49%" alt="sift" /></picture></a>
+  <a href="https://github.com/cansarihan/cipher"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/cipher/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/cipher/main/docs/assets/wordmark-light.svg" width="49%" alt="cipher" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cansarihan/quarry"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/quarry/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/quarry/main/docs/assets/wordmark-light.svg" width="49%" alt="quarry" /></picture></a>
+  <a href="https://github.com/cansarihan/argus"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/argus/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/argus/main/docs/assets/wordmark-light.svg" width="49%" alt="argus" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cansarihan/falcon"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/falcon/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/falcon/main/docs/assets/wordmark-light.svg" width="49%" alt="falcon" /></picture></a>
+  <a href="https://github.com/cansarihan/tempo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/tempo/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/tempo/main/docs/assets/wordmark-light.svg" width="49%" alt="tempo" /></picture></a>
+</p>
+<p align="center">
+  <a href="https://github.com/cansarihan/cordon"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/cordon/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/cordon/main/docs/assets/wordmark-light.svg" width="49%" alt="cordon" /></picture></a>
+</p>
 <p align="center">
   <a href="https://github.com/cansarihan/vane"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/vane/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/vane/main/docs/assets/wordmark-light.svg" width="49%" alt="vane" /></picture></a>
   <a href="https://github.com/cansarihan/pharos"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/pharos/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/pharos/main/docs/assets/wordmark-light.svg" width="49%" alt="pharos" /></picture></a>
@@ -102,7 +121,7 @@ A suite of network and systems tools, each with a live panel and green CI. Click
   <a href="https://github.com/cansarihan/prism"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-dark.svg"><img src="https://raw.githubusercontent.com/cansarihan/prism/main/docs/assets/wordmark-light.svg" width="49%" alt="prism" /></picture></a>
 </p>
 
-## 🏢 Blue Network
+## Blue Network
 
 **[Blue Network](https://bluenetwork.tr/)** — network infrastructure, security audits, and monitoring solutions.
 
