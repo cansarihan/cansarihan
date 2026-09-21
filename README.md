@@ -90,23 +90,34 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 
 ## Awards & Competitions
 
-<p align="center">
-  <a href="https://github.com/cansarihan/payper"><img src="https://img.shields.io/badge/4th%20place-payper-2D9BF0?style=for-the-badge&labelColor=0D1117" alt="payper — 4th place" /></a>
-</p>
-<p align="center">
-  <b>Rise In × Stellar Pro Hackathon 2026</b> · İstanbul · $1,000 prize<br>
-  <sub>Receivables financing — an e-invoice the buyer acknowledged on chain becomes an instrument anyone holding USDC can fund.</sub><br>
-  <sub>Built with <a href="https://github.com/berkcicekk">Berk Çiçek</a> · September 2026</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/cansarihan/loot-box"><img src="https://img.shields.io/badge/1st%20place-loot--box-FFB300?style=for-the-badge&labelColor=0D1117" alt="loot-box — 1st place" /></a>
-</p>
-<p align="center">
-  <b>Build on Stellar Bootcamp</b> · Zonguldak Bülent Ecevit University<br>
-  <sub>Provably fair on-chain loot boxes, powered by Soroban smart contracts.</sub><br>
-  <sub>April 2026</sub>
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/cansarihan/payper"><img src="assets/award-payper.jpg" width="100%" alt="Rise In x Stellar Pro Hackathon 2026, Istanbul" /></a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/cansarihan/loot-box"><img src="assets/award-lootbox.jpg" width="100%" alt="Build on Stellar Bootcamp, Zonguldak Bulent Ecevit University" /></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+  <img src="https://img.shields.io/badge/4th%20place-%241%2C000%20prize-2D9BF0?style=for-the-badge&labelColor=0D1117" alt="4th place" /><br>
+  <h3><a href="https://github.com/cansarihan/payper">payper</a></h3>
+  <b>Rise In × Stellar Pro Hackathon 2026</b><br>
+  <sub>İstanbul · September 2026</sub>
+</td>
+<td align="center">
+  <img src="https://img.shields.io/badge/1st%20place-winner-FFB300?style=for-the-badge&labelColor=0D1117" alt="1st place" /><br>
+  <h3><a href="https://github.com/cansarihan/loot-box">loot-box</a></h3>
+  <b>Build on Stellar Bootcamp</b><br>
+  <sub>Zonguldak Bülent Ecevit University · April 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><em>Receivables financing — an e-invoice the buyer acknowledged on chain becomes an instrument anyone holding USDC can fund.</em><br><sub>Built with <a href="https://github.com/berkcicekk">Berk Çiçek</a></sub></td>
+<td align="center"><em>Provably fair on-chain loot boxes, powered by Soroban smart contracts.</em></td>
+</tr>
+</table>
 
 ## Featured Projects
 
