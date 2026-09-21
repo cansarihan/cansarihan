@@ -88,6 +88,15 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=for-the-badge&logo=wazuh&logoColor=white)
 
+## Awards & Competitions
+
+Projects built for competitions, and how they placed.
+
+| Placement | Project | Competition |
+|---|---|---|
+| 🥇 **1st place** | [**loot-box**](https://github.com/cansarihan/loot-box) — provably fair on-chain loot boxes, powered by Soroban smart contracts | Build on Stellar Bootcamp — Zonguldak Bülent Ecevit University |
+| 🏅 **4th place** | [**payper**](https://github.com/cansarihan/payper) — receivables financing: an e-invoice becomes an instrument anyone holding USDC can fund | Rise In × Stellar Pro Hackathon 2026 — İstanbul · $1,000 prize |
+
 ## Featured Projects
 
 A suite of network and systems tools, each with a live panel and green CI. Click a banner to open the repo.
