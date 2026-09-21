@@ -107,7 +107,7 @@ In short: I build, I secure, I manage. Servers, networks, applications — I han
   <sub>İstanbul · September 2026</sub>
 </td>
 <td align="center">
-  <img src="https://img.shields.io/badge/1st%20place-winner-FFB300?style=for-the-badge&labelColor=0D1117" alt="1st place" /><br>
+  <img src="https://img.shields.io/badge/1st%20place-%2467%20prize-FFB300?style=for-the-badge&labelColor=0D1117" alt="1st place" /><br>
   <h3><a href="https://github.com/cansarihan/loot-box">loot-box</a></h3>
   <b>Build on Stellar Bootcamp</b><br>
   <sub>Zonguldak Bülent Ecevit University · April 2026</sub>
