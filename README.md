@@ -95,7 +95,7 @@ Projects built for competitions, and how they placed.
 | Placement | Project | Competition |
 |---|---|---|
 | 🥇 **1st place** | [**loot-box**](https://github.com/cansarihan/loot-box) — provably fair on-chain loot boxes, powered by Soroban smart contracts | Build on Stellar Bootcamp — Zonguldak Bülent Ecevit University |
-| 🏅 **4th place** | [**payper**](https://github.com/cansarihan/payper) — receivables financing: an e-invoice becomes an instrument anyone holding USDC can fund | Rise In × Stellar Pro Hackathon 2026 — İstanbul · $1,000 prize |
+| 🏅 **4th place** | [**payper**](https://github.com/cansarihan/payper) — receivables financing: an e-invoice becomes an instrument anyone holding USDC can fund | Rise In × Stellar Pro Hackathon 2026 — İstanbul · $1,000 prize · built with [Berk Çiçek](https://github.com/berkcicekk) |
 
 ## Featured Projects
 
